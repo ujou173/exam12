@@ -55,7 +55,7 @@ const a = 10;
 const b = 20;
 
 const calc = new Calculate(a, b);
-console.log(calc)
+console.log(calc);
 
 console.log(calc.add(a, b));
 console.log(calc.minus(a, b));
